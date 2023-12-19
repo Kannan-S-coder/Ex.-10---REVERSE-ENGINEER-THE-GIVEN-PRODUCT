@@ -31,8 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/Kannan-S-coder/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147120710/eae28b57-a7c7-45ae-82bd-940981a651ef)
+
 
 ### Output:
+![image](https://github.com/Kannan-S-coder/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/147120710/507fdaad-2389-4fa9-9f9c-9a81cfb0c7ef)
+
 
 
 ### Name:
